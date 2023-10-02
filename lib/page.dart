@@ -11,7 +11,7 @@ class RouterClass {
     switch (settings.name) {
       case "/":
         myWidget = const MyHomePage(
-          title: "First Page",
+          title: "First Page add V2",
         );
         break;
       case "/home":
